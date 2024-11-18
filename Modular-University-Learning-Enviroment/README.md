@@ -23,9 +23,6 @@ M.U.L.E. is a web-based platform designed to efficiently manage university opera
    - Ensure smooth communication between administrators and students.
 
 ## Screenshots
-
-### Dashboard Overview
-**![Dashboard Overview](Images/dashboard.jpg)**
-
-### Batch Management
-**![Batch Management](Images/batch.jpg)**
+**![Image Alt text](Images/landing.jpg)**
+**![Image Alt text](Images/1.jpg)**
+**![Image Alt text](Images/2.jpg)****![Image Alt text](Images/3.jpg)****![Image Alt text](Images/4.jpg)****![Image Alt text](Images/5.jpg)****![Image Alt text](Images/6.jpg)****![Image Alt text](Images/7.jpg)****![Image Alt text](Images/8.jpg)****![Image Alt text](Images/9.jpg)****![Image Alt text](Images/10.jpg)****![Image Alt text](Images/11.jpg)****![Image Alt text](Images/12.jpg)****![Image Alt text](Images/13.jpg)****![Image Alt text](Images/14.jpg)**
